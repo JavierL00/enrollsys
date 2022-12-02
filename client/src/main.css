@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    background-image: url("https://img.freepik.com/free-vector/back-school-background-with-empty-space_23-2148609200.jpg?w=2000");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg2 {
+    background-image: url("https://img.freepik.com/free-photo/book-with-green-board-background_1150-3837.jpg?w=996&t=st=1669369520~exp=1669370120~hmac=5e60af55fd6b2ce08d94e0575bd0c5a81fe72b1cb3941c95e868a0f9e152281c");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
